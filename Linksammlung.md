@@ -2,7 +2,7 @@
 
 ## Handouts und Materialien des Kurses
 
-https://github.com/itfolks-org/Arduino-Schnupperkurs-Deutsch
+https://github.com/IT-folks/Arduino-Sensorkit-Deutsch
 
 ## Autodesk Tinkercad Simulationssoftware
 
@@ -28,17 +28,19 @@ Dort ist insbesondere das Pin-out Diagramm interessant
 
 [Project Hub mit Anwendungsbeispielen](https://create.arduino.cc/projecthub)
 
+## Arduino Sensor Kit
+
+https://sensorkit.arduino.cc/sensorkit/module/getting-started/lesson/00-getting-started
+
+## Arduino Debug Utils
+
+https://github.com/arduino-libraries/Arduino_DebugUtils
+
+## DHT20 Library
+
+https://files.seeedstudio.com/wiki/Grove-Temperature-Humidity-Sensor/Grove_Temperature_And_Humidity_Sensor-master.zip
+
 ## Arduino Robot Kit
 
 [ELEGOO SMART ROBOT CAR KIT](https://www.elegoo.com/blogs/arduino-projects/elegoo-smart-robot-car-kit-v4-0-tutorial)
 
-## Elektrotechnik
-
-Ohmsches Gesetz, Parallelschaltung, Reihenschaltung
-
-https://www.michael-konczer.com/tech/de/elektrotechnik/ohmsches-gesetz
-
-[Video zu Kirchhoffschen Regeln](https://youtu.be/47Z51oV4Cg4)
-
-[Widerstandsrechner für LEDs](https://leds-and-more.de/Widerstandsrechner
-)
