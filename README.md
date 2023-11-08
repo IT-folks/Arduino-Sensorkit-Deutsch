@@ -13,9 +13,13 @@ https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-V2-0-DHT20-p-4967.
 
 https://wiki.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DH20/
 
-Das Grove Beginner Kit (seeed clone) hat teilweise eine andere Pin-Belegung und erfordert teilweise Anpassungen in den Sketches, die wir jeweils als Kommentar in den Sketches kennzeichnen, oder in einem separaten Sketch berücksichtigen:
+Das Seeed Grove Beginner Kit for Arduino (seeed clone) hat teilweise eine andere Pin-Belegung und erfordert teilweise Anpassungen in den Sketches, die wir jeweils als Kommentar in den Sketches kennzeichnen, oder in einem separaten Sketch berücksichtigen:
 
-![Grove Beginner Kit](images/grovebeginnerkitclone.jpeg)
+![Grove Beginner Kit alt](images/grovebeginnerkitclone.jpeg)
+
+auch dieses gibt es jetzt in einer neueren Vesion mit I2C DHT20:
+
+![Grove Beginner Kit neu](images/seeed_grove_beginner_kit.png)
 
 
 https://sensorkit.arduino.cc/sensorkit/module/getting-started/lesson/00-getting-started
