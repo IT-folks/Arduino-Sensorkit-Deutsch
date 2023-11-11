@@ -1,3 +1,7 @@
+# VHS PC Driver installation
+
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
 # Arduino sensor kit
 
 ![Arduino sensor kit](images/Arduino%20sensor%20kit.jpeg)
