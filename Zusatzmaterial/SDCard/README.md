@@ -3,6 +3,13 @@
 Zum Beispiel AZDelivery SPI Micro SD Card Shield kompatibel mit Arduino 
 
 ### Belegung der SPI Anschlüsse
+
+Serial Peripheral Interface (SPI) ist ein synchrones serielles Datenprotokoll, das von Mikrocontrollern zur schnellen Kommunikation mit einem oder mehreren Peripheriegeräten über kurze Entfernungen verwendet wird.
+
+https://docs.arduino.cc/learn/communication/spi
+https://www.arduino.cc/reference/en/language/functions/communication/spi/
+
+
 ```
 CS = Chip select 3,3 oder 5 V
 MOSI = Master out Slave in 3,3 oder 5 V
